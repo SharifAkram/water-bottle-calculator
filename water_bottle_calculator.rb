@@ -1,5 +1,7 @@
 # A calculator to determine how many bottles of water to drink based
 # on your weight in lbs or kg
+# A standard single-use plastic water bottle holds 16.9 ounces of water
+# and is made of 0.3 ounces of plastic.
 
 class WaterBottleCalculator
       def calculate_bottles(weight, unit)
